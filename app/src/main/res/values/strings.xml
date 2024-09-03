@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">calculadoraimc</string>
+    <string name="alert_all_fields_empty">Preencha todos os campos</string>
+    <string name="alert_weight_empty">Preencha o campo peso</string>
+    <string name="alert_height_empty">Preencha o campo altura</string>
+    <string name="label_hint_weight">Peso (kg)</string>
+    <string name="label_hint_height">Altura (m)</string>
+    <string name="label_calculate_button">Calcular</string>
+    <string name="label_imc_classification">A classificação do seu IMC é:</string>
+    <string name="label_image_description">Imagem de uma balança para medir peso</string>
+    <string name="label_calculator_imc_title">Calculadora IMC</string>
+    <string name="label_calculator_imc_description">Preencha todos os campos para calcular seu IMC</string>
+    <string name="label_imc_result_description">Confirme abaixo o seu resultado e a sua classificação</string>
+    <string name="label_magreza">MAGREZA</string>
+    <string name="label_abaixo_do_peso">ABAIXO DO PESO</string>
+    <string name="label_normal">NORMAL</string>
+    <string name="label_sobrepeso">SOBREPESO</string>
+    <string name="label_obesidade_I">OBESIDADE I</string>
+    <string name="label_obesidade_II">OBESIDADE II</string>
+    <string name="label_obesidade_grave">OBESIDADE GRAVE</string>
 </resources>
