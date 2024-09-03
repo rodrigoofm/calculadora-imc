@@ -3,10 +3,7 @@ Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de prog
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-Screenshots
-![Screenshot_20240903_061523](https://github.com/user-attachments/assets/eee563ed-1402-4c5e-9b56-775ccf9c15aa)
-![Screenshot_20240903_061655](https://github.com/user-attachments/assets/41ebe0d6-80ec-40b7-846c-8bd6bf43b53a)
-
+<img src="https://github.com/user-attachments/assets/eee563ed-1402-4c5e-9b56-775ccf9c15aa" width=200 /><img src="https://github.com/user-attachments/assets/41ebe0d6-80ec-40b7-846c-8bd6bf43b53a" width=200 />
 
 ## Tecnologias
 - Activity
